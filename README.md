@@ -2,6 +2,9 @@
 
 ## Recopilación de todos los proyectos de diseño de hardware digital.
 
+### Proyectos contenidos en el repositorio
+1. luzdos: proyecto que incorpora el procesador embebido de Altera (competidor de MicroBlaze de Xilinx)
+
 
 ## Sofware CAD usado:
 - Quartus II 12.0 sp2 [1].
@@ -35,6 +38,11 @@ Para realizar cualquier diseño, antes debemos de tener en nuestra cabeza el cir
 Es muy importante tener buenos hábitos de diseño de hardware digital.
 ```
 
+</br>
+``` 
+Si hay algo que no te quede claro o no entiendas de este repositorio, por favor, no dudes en ponerte en contacto con el dueño del repositorio, no come a nadie y siempre está dispuesto a echar una mano ;)
+```
+
 
 </br>
 </br>
@@ -50,3 +58,5 @@ Es muy importante tener buenos hábitos de diseño de hardware digital.
 - Tarjeta DE2-115: ftp://ftp.altera.com/up/pub/Altera_Material/Boards/DE2-115/DE2_115_User_Manual.pdf
 - Cyclone IV FPGA: http://www.altera.com/literature/hb/cyclone-iv/cyclone4-handbook.pdf
 - Nios II processor [Computer Organization]:  https://www.altera.com/support/training/university/materials-tutorials.html?&ifup_version=12.0
+- Información general sobre Nios II (1): https://en.wikipedia.org/wiki/Nios_II
+- Información general sobre Nios II (2): https://www.altera.com/products/processors/overview.html
