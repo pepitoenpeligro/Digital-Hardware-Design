@@ -11,6 +11,13 @@
 </br>
 </br>
 
+
+## Indicaciones
+Cada directorio contenido en el repositorio contiene el proyecto QuartusII 12.0 sp2 pertinente, pertenciente por tanto a la plataforma Altera-Intel FPGA, pero los diseños *.vhdl son completamente portables a otras arquitecturas, teniendo en cuenta cómo se infieren dichas descripciones a sus respectivas plataformas (ej. Xilinx).
+
+</br>
+</br>
+
 ### Sofware CAD usado:
 - Quartus II 12.0 sp2 [1].
 - Model Sim Altera - *Intel* FPGA STARTER EDITION 10.5b [2]
