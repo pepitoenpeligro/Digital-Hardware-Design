@@ -46,7 +46,9 @@ Si hay algo que no te quede claro o no entiendas de este repositorio, por favor,
 - - -
 ### Referencias
 [1] https://www.altera.com/downloads/software/quartus-ii-we/120.html
+
 [2] https://www.altera.com/downloads/software/modelsim-starter/120.html
+
 [3] https://www.altera.com/support/training/university/materials-software.html?&ifup_version=12.0
 
 - - - 
