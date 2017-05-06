@@ -9,6 +9,7 @@
 
 </br>
 </br>
+
 ### Sofware CAD usado:
 - Quartus II 12.0 sp2 [1].
 - Model Sim Altera - *Intel* FPGA STARTER EDITION 10.5b [2]
