@@ -3,7 +3,7 @@
 ## Recopilación de todos los proyectos de diseño de hardware digital.
 
 ### Proyectos contenidos en el repositorio
-1. luzdos: proyecto que incorpora el procesador embebido de Altera (competidor de MicroBlaze de Xilinx)
+1. luzdos: proyecto que incorpora el procesador embebido de Altera (competidor de MicroBlaze de Xilinx). Trata de controlar los switches de la placa DE2-115 y encender los leds incorporados en función de la disposición de los switches (SW[0] -> LED[0] ... SW[7]-> LED[7])
 
 
 ## Sofware CAD usado:
