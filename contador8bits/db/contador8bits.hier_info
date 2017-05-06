@@ -1,0 +1,35 @@
+|contador8bits
+clock => contador_interno[0].CLK
+clock => contador_interno[1].CLK
+clock => contador_interno[2].CLK
+clock => contador_interno[3].CLK
+clock => contador_interno[4].CLK
+clock => contador_interno[5].CLK
+clock => contador_interno[6].CLK
+clock => contador_interno[7].CLK
+reset => contador_interno[0].ACLR
+reset => contador_interno[1].ACLR
+reset => contador_interno[2].ACLR
+reset => contador_interno[3].ACLR
+reset => contador_interno[4].ACLR
+reset => contador_interno[5].ACLR
+reset => contador_interno[6].ACLR
+reset => contador_interno[7].ACLR
+max[0] => LessThan0.IN8
+max[1] => LessThan0.IN7
+max[2] => LessThan0.IN6
+max[3] => LessThan0.IN5
+max[4] => LessThan0.IN4
+max[5] => LessThan0.IN3
+max[6] => LessThan0.IN2
+max[7] => LessThan0.IN1
+conteo[0] <= contador_interno[0].DB_MAX_OUTPUT_PORT_TYPE
+conteo[1] <= contador_interno[1].DB_MAX_OUTPUT_PORT_TYPE
+conteo[2] <= contador_interno[2].DB_MAX_OUTPUT_PORT_TYPE
+conteo[3] <= contador_interno[3].DB_MAX_OUTPUT_PORT_TYPE
+conteo[4] <= contador_interno[4].DB_MAX_OUTPUT_PORT_TYPE
+conteo[5] <= contador_interno[5].DB_MAX_OUTPUT_PORT_TYPE
+conteo[6] <= contador_interno[6].DB_MAX_OUTPUT_PORT_TYPE
+conteo[7] <= contador_interno[7].DB_MAX_OUTPUT_PORT_TYPE
+
+
