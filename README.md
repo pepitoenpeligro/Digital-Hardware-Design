@@ -4,9 +4,9 @@
 
 
 ## Sofware CAD usado:
-1. Quartus II 12.0 sp2 [1].
-2. Model Sim Altera - Intel FPGA STARTER EDITION 10.5b
-3. Altera Monitor Program
+- Quartus II 12.0 sp2 [1].
+- Model Sim Altera - Intel FPGA STARTER EDITION 10.5b [2]
+- Altera Monitor Program [3]
 
 
 ## Plataforma de desarrollo
@@ -18,8 +18,12 @@ Esta plataforma contiene en su interior entre otras características:
 	3. 2x 64 MB SDRAM.
 	4. 8 MB Flash Memory.
 
+- - -
+
 
 
 
 
 [1] https://www.altera.com/downloads/software/quartus-ii-we/120.html
+[2] https://www.altera.com/downloads/software/modelsim-starter/120.html
+[3] https://www.altera.com/support/training/university/materials-software.html?&ifup_version=12.0
