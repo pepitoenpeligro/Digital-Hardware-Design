@@ -29,19 +29,13 @@ Esta plataforma contiene en su interior entre otras características:
 
 
 </br>
-``` 
-Para realizar cualquier diseño, antes debemos de tener en nuestra cabeza el circuito que queremos diseñar.
-```
+``` Para realizar cualquier diseño, antes debemos de tener en nuestra cabeza el circuito que queremos diseñar.```
 
 </br>
-``` 
-Es muy importante tener buenos hábitos de diseño de hardware digital.
-```
+``` Es muy importante tener buenos hábitos de diseño de hardware digital.```
 
 </br>
-``` 
-Si hay algo que no te quede claro o no entiendas de este repositorio, por favor, no dudes en ponerte en contacto con el dueño del repositorio, no come a nadie y siempre está dispuesto a echar una mano ;)
-```
+``` Si hay algo que no te quede claro o no entiendas de este repositorio, por favor, no dudes en ponerte en contacto con el dueño del repositorio, no come a nadie y siempre está dispuesto a echar una mano ;)```
 
 
 </br>
