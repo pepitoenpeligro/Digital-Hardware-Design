@@ -1,0 +1,11 @@
+|maquina_estados
+clock => estado~4.DATAIN
+reset => estado~6.DATAIN
+entrada1 => Selector1.IN2
+entrada1 => Selector0.IN1
+entrada2 => estado.OUTPUTSELECT
+entrada2 => estado.OUTPUTSELECT
+entrada2 => estado.OUTPUTSELECT
+salida1 <= salida1.DB_MAX_OUTPUT_PORT_TYPE
+
+
