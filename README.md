@@ -28,15 +28,14 @@ Esta plataforma contiene en su interior entre otras características:
 ### Tip 0
 No confundir la tarjeta con la FPGA. La FPGA (Field Programable Gate Array) es el dispositivo programable que contiene bloques lógicos, los cuales se interconectan para que realicen la funcionalidad que nosotros diseñamos, en nuestro caso con Quartus II sobre ficheros de diseño VHDL. La tarjeta es una plataforma de desarrollo, que contiene, además de la FPGA integrada, otros recursos como disposivos de audios, de video, las memoria RAM, SDRAM, FLASH, y el mecanismo de programación de la FPGA.
 
-</br>
+
 ### Tip 1
 Para realizar cualquier diseño, antes debemos de tener en nuestra cabeza el circuito que queremos diseñar.
 
-</br>
 ### Tip 2
 Es muy importante tener buenos hábitos de diseño de hardware digital.
 
-</br>
+
 ### Tip 3
 Si hay algo que no te quede claro o no entiendas de este repositorio, por favor, no dudes en ponerte en contacto con el dueño del repositorio, no come a nadie y siempre está dispuesto a echar una mano ;)
 
