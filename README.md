@@ -8,6 +8,7 @@
 - Model Sim Altera - Intel FPGA STARTER EDITION 10.5b [2]
 - Altera Monitor Program [3]
 
+</br>
 
 ## Plataforma de desarrollo
 La plataforma de desarrollo sobre la que diseñamos el hardware es: DE2-115.
@@ -18,12 +19,34 @@ Esta plataforma contiene en su interior entre otras características:
 	3. 2x 64 MB SDRAM.
 	4. 8 MB Flash Memory.
 
+</br>
+
+## Tips:
+``` No confundir la tarjeta con la FPGA. La FPGA (Field Programable Gate Array) es el dispositivo programable que contiene bloques lógicos, los cuales se interconectan para que realicen la funcionalidad que nosotros diseñamos, en nuestro caso con Quartus II sobre ficheros de diseño VHDL. La tarjeta es una plataforma de desarrollo, que contiene, además de la FPGA integrada, otros recursos como disposivos de audios, de video, las memoria RAM, SDRAM, FLASH, y el mecanismo de programación de la FPGA. ```
+
+
+</br>
+``` 
+Para realizar cualquier diseño, antes debemos de tener en nuestra cabeza el circuito que queremos diseñar.
+```
+
+</br>
+``` 
+Es muy importante tener buenos hábitos de diseño de hardware digital.
+```
+
+
+</br>
+</br>
+
 - - -
-
-
-
-
-
+### Referencias
 [1] https://www.altera.com/downloads/software/quartus-ii-we/120.html
 [2] https://www.altera.com/downloads/software/modelsim-starter/120.html
 [3] https://www.altera.com/support/training/university/materials-software.html?&ifup_version=12.0
+
+- - - 
+### Enlaces de interés
+- Tarjeta DE2-115: ftp://ftp.altera.com/up/pub/Altera_Material/Boards/DE2-115/DE2_115_User_Manual.pdf
+- Cyclone IV FPGA: http://www.altera.com/literature/hb/cyclone-iv/cyclone4-handbook.pdf
+- Nios II processor [Computer Organization]:  https://www.altera.com/support/training/university/materials-tutorials.html?&ifup_version=12.0
